@@ -98,3 +98,9 @@ from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from xgboost import XGBRegressor
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.metrics import mean_squared_error, r2_score
+
+## Power BI Report
+
+Here is a snapshot of the Power BI report visualizing the Chicago crime data:
+
+![Power BI Report](powerbi_report.png)
