@@ -103,4 +103,4 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 Here is a snapshot of the Power BI report visualizing the Chicago crime data:
 
-![Power BI Report](powerbi_report.png)
+![Power BI Report](chicago_crime_data_analyzer.png)
